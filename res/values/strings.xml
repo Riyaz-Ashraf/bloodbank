@@ -1,0 +1,382 @@
+<resources>
+    <string name="app_name">Blood Organizers</string>
+
+    <!--tamilnadu district starts-->
+    <string-array name="chennai_north">
+        <item>Feroze Khan</item>
+        <item>98418 68354</item>
+        <item>District Secretary</item>
+    </string-array>
+    <string-array name="chennai_south">
+        <item>Niyamathullah</item>
+        <item>77080 63489</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="cuddalore_north">
+        <item>Sharfudeen</item>
+        <item>73977 38100</item>
+        <item>District Asst.President</item>
+    </string-array>
+    <string-array name="cuddalore_south">
+        <item>Ahamed</item>
+        <item>90878 62936</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="dharmapuri">
+    <item>Niyaz</item>
+    <item>94439 60676</item>
+    <item>In-Charge</item>
+    </string-array>
+    <string-array name="dindugal">
+        <item>Iqbal</item>
+        <item>90424 48845</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="erode">
+        <item>Abbas</item>
+        <item>99655 46634</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="kanyakumari">
+        <item>Abdur Rahman</item>
+        <item>81108 19811</item>
+        <item>District Secretary</item>
+    </string-array>
+    <string-array name="kanchi_west">
+        <item>Pammal Sadhik</item>
+        <item>98843 88470</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="kanchi_south">
+        <item>Noor</item>
+        <item>98404 39771</item>
+        <item></item>
+    </string-array>
+    <string-array name="karur">
+        <item>Madhar Shah</item>
+        <item>98940 11800</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="krishnagiri">
+        <item>Siraj</item>
+        <item>90034 50040</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="kovai_north">
+        <item>Mohammed Hasan</item>
+        <item>75026 99188</item>
+        <item>In-Charge</item>----
+    </string-array>
+    <string-array name="kovai_south">
+        <item>Sulthan</item>
+        <item>91501 25009</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="madurai">
+        <item>Nasar</item>
+        <item>99428 72050</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="nagai_north">
+        <item>Mohammed Ibrahim</item>
+        <item>86086 22183</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="nagai_south">
+        <item>Ahamed Maidheen</item>
+        <item>98949 44077</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="namakkal">
+        <item>Alavudeen</item>
+        <item>84286 89707</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="nellai_west">
+        <item>Meeran Kani</item>
+        <item>85080 29799</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="nellai_east">
+        <item>Maidheen</item>
+        <item>96266 97333</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="nilgiris">
+        <item>Abdul Latheef</item>
+        <item>86800 07884</item>
+        <item>In-Charge</item>
+    </string-array>
+
+    <string-array name="pudhukottai">
+        <item>Ameer Abbas</item>
+        <item>73733 11668</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="perambalur">
+        <item>Jahir Hussain</item>
+        <item>95858 30800</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="ramanathapuram_north">
+        <item>Riyas Khan</item>
+        <item>75021 46636</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="ramanathapuram_south">
+        <item>Nasrudeen</item>
+        <item>90421 69629</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="salem">
+        <item>Aziz</item>
+        <item>97900 32178</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="sivagangai">
+        <item>Shahul</item>
+        <item>98650 94150</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="tirupur">
+        <item>Jakir</item>
+        <item>92446 42002</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="trichy">
+        <item>Rizwan</item>
+        <item>99659 22345</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="tuticorin">
+        <item>Imam Buhari</item>
+        <item>70924 36860</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="thanjavur_north">
+        <item>Shahul</item>
+        <item>99655 96906</item>
+        <item>District Medical Wing</item>
+    </string-array>
+    <string-array name="thanjavur_south">
+        <item>Vallam Jaffar</item>
+        <item>99441 91505</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="theni">
+        <item>Muzammil</item>
+        <item>89407 14049</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="thiruvallur_west">
+        <item>Imam</item>
+        <item>89252 01718</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="thiruvallur_east">
+        <item>Fareedh</item>
+        <item>89398 80060</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="thiruvannamalai">
+        <item>Audhil</item>
+        <item>98942 69762</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="thiruvarur_north">
+        <item>Saleemudin</item>
+        <item>74020 46509</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="thiruvarur_south">
+        <item>Firthous</item>
+        <item>85248 04009</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="vellore_west">
+        <item>District Administration</item>
+        <item></item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="vellore_east">
+        <item>Aqil Ahamed</item>
+        <item>98945 43523</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="virudhunagar">
+        <item>Jahir Hussain</item>
+        <item>99407 17240</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="villupuram_west">
+        <item>Pakkiri Mohammed</item>
+        <item>98431 48669</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="villupuram_east">
+        <item>Basheer</item>
+        <item>73388 25613</item>
+        <item>In-Charge</item>
+    </string-array>
+    <!--tamilnadu district ends-->
+
+    <!--pondicherry district starts-->
+    <string-array name="karaikal">
+        <item>Jahir Abbas</item>
+        <item>75399 91393</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="pondicherry">
+        <item>Ayyub</item>
+        <item>98425 10713</item>
+        <item>In-Charge</item>
+    </string-array>
+    <!--pondicherry district end-->
+
+    <!--maharashtra district starts-->
+    <string-array name="mumbai">
+        <item>Salam Ansari</item>
+        <item>98704 74884</item>
+        <item>In-Charge</item>
+    </string-array>
+    <!--maharashtra district ends-->
+
+    <!--karnataka district starts-->
+    <string-array name="bengaluru">
+        <item>Mohammed Ibrahim</item>
+        <item>95919 84687</item>
+        <item>In-Charge</item>
+    </string-array>
+    <!--karnataka district ends-->
+
+    <!--Andhra district starts-->
+    <string-array name="andhra_north">
+        <item>Anees Abubacker</item>
+        <item>94411 27136</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="andhra_south">
+        <item>Basheer</item>
+        <item>96769 98885</item>
+        <item>In-Charge</item>
+    </string-array>
+    <!--Andhra district ends-->
+
+    <!--Kerala district starts-->
+    <string-array name="kerala_north">
+        <item>Ameer</item>
+        <item>80866 99408</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="kerala_south">
+        <item>Sabeerudeen</item>
+        <item>80861 42380</item>
+        <item>In-Charge</item>
+    </string-array>
+    <!--Kerala district ends-->
+
+    <!--srilanka district starts-->
+    <string-array name="sri_lanka">
+        <item>Arshath</item>
+        <item>+94 77 3376881</item>
+        <item>In-Charge</item>
+    </string-array>
+    <!--srilanka district ends-->
+
+    <!--kuwait district starts-->
+    <string-array name="kuwait_north">
+        <item>Ilyas</item>
+        <item>+965 97129717</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="kuwait_center">
+        <item>Mohammed Siddiq</item>
+        <item>+965 97466427</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="kuwait_south">
+        <item>Mujeeb Rahman</item>
+        <item>+965 97836718</item>
+        <item>In-Charge</item>
+    </string-array>
+    <!--kuwait district ends-->
+
+    <!--saudi district starts-->
+    <string-array name="riyadh">
+        <item>Raisul Kamal</item>
+        <item>+966 5 4986 9509</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="jeddah">
+        <item>Salavudeen</item>
+        <item>+966 5 0832 6083</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="dammam">
+        <item>Sheik Ansari</item>
+        <item>+966 5 0004 7327</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="al_hasa">
+        <item>Jahir</item>
+        <item>+966 5 0884 7069</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="al_qassim">
+        <item>Idhrees</item>
+        <item>+966 5 0745 6955</item>
+        <item>In-Charge</item>
+    </string-array>
+    <!--saudi district ends-->
+
+    <!--uae district starts-->
+    <string-array name="abu_dhabi">
+        <item>Dawood</item>
+        <item>+971 56 7264264</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="uae_north">
+        <item>Sadhik</item>
+        <item>+971 55 4058480</item>
+        <item>In-Charge</item>
+    </string-array>
+    <string-array name="dubai">
+        <item>Ashraf Ali</item>
+        <item>+971 55 3873002</item>
+        <item>In-Charge</item>
+    </string-array>
+    <!--uae district ends-->
+
+    <!--qatar district starts-->
+    <string-array name="qatar">
+        <item>Dhastageer</item>
+        <item>+974 66316247</item>
+        <item>In-Charge</item>
+    </string-array>
+    <!--qatar district ends-->
+
+    <!--bahrain district starts-->
+    <string-array name="bahrain">
+        <item>Kalifullah</item>
+        <item>+973 33672628</item>
+        <item>In-Charge</item>
+    </string-array>
+    <!--bahrain district ends-->
+
+    <!--oman district starts-->
+    <string-array name="muscat">
+        <item>Mohammed Rafic</item>
+        <item>+968 95238362</item>
+        <item>In-Charge</item>
+    </string-array>
+    <!--oman district ends-->
+
+    <!--malaysia district starts-->
+    <string-array name="malaysia">
+        <item>Ansari</item>
+        <item>+60 193 766 966</item>
+        <item>In-Charge</item>
+    </string-array>
+    <!--malaysia district ends-->
+
+</resources>
